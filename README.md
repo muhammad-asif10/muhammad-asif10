@@ -20,7 +20,7 @@
 - 🚀 Currently learning **Python, Pandas, NumPy, Machine Learning, and Statistics**  
 - 🛒 Building a **C++ E-commerce Management System** (CLI-based project)  
 - 💬 Ask me about: *Data Science, C++, Python, Problem Solving, AI concepts*  
-- 📫 Reach me at: **asifamjad724@gmail.com**  
+- 📫 Reach me at: **MuhammadAsif00@proton.me**  
 - ⚡ Fun fact: *I debug more than I code 😄*
 ## 💻 Tech Stack  
 <p align="left">  
