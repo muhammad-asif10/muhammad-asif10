@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **BS Computer Science (3rd Semester)** student passionate about **Data Science & AI**  
+- 🎓 **BS Computer Science** student passionate about **Data Science & AI**  
 - 💡 I love transforming **data into meaningful insights** through analytics and visualization  
 - 🚀 Currently learning **Python, Pandas, NumPy, Machine Learning, and Statistics**  
 - 🛒 Building a **C++ E-commerce Management System** (CLI-based project)  
