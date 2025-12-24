@@ -8,7 +8,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-asif-ch&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
