@@ -85,7 +85,7 @@
 ---
 
 ## 📊 GitHub Activity
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&layout=pie)](https://github.com/muhammad-asif10/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
