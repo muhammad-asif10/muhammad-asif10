@@ -13,6 +13,22 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
+<!-- Spotify Section -->
+<h3 align="center">🎵 My Spotify</h3>
+
+<p align="center">
+  <!-- Now Playing Badge -->
+  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Now Playing on Spotify" width="350"/>
+  </a>
+</p>
+
+<p align="center">
+  Listen to my featured song:  
+  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">🎧 Click Here to Play</a>
+</p>
+
+
 ## 👨‍💻 About Me
 
 * 📊 Focused on **Data Science, Machine Learning & AI**
