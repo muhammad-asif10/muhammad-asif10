@@ -87,6 +87,7 @@
 ## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
 </p>
 
 ---
