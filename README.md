@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
 </p>
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammad-asif10)
+
 ## 👨‍💻 About Me
 
 * 📊 Focused on **Data Science, Machine Learning & AI**
