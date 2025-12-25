@@ -87,6 +87,61 @@
 * 🤖 Deep Learning fundamentals
 
 ---
+<!-- Learning Platforms Section -->
+<h3 align="center">🌐 My Favorite Learning Platforms</h3>
+
+<p align="center">
+  <!-- W3Schools -->
+  <a href="https://www.w3schools.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/w3schools.svg" alt="W3Schools" width="50" height="50"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GeeksforGeeks" width="50" height="50"/>
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="50" height="50"/>
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" alt="Stack Overflow" width="50" height="50"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="50" height="50"/>
+  </a>
+
+  <!-- Coursera -->
+  <a href="https://www.coursera.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/coursera.svg" alt="Coursera" width="50" height="50"/>
+  </a>
+
+  <!-- edX -->
+  <a href="https://www.edx.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/edx.svg" alt="edX" width="50" height="50"/>
+  </a>
+
+  <!-- FreeCodeCamp -->
+  <a href="https://www.freecodecamp.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/freecodecamp.svg" alt="FreeCodeCamp" width="50" height="50"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="50" height="50"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="50" height="50"/>
+  </a>
+</p>
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
