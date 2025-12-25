@@ -85,9 +85,9 @@
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"  height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-asif10&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
 </p>
 
