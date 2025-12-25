@@ -84,6 +84,8 @@
 ---
 
 ## 📊 GitHub Activity
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
   <img src="(https://activity-graph.herokuapp.com/graph?username=muhammad-asif10&theme=github" height="150"/>
