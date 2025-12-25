@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
 ## 👨‍💻 About Me
 
 * 📊 Focused on **Data Science, Machine Learning & AI**
@@ -84,7 +88,6 @@
 ---
 
 ## 📊 GitHub Activity
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif10&theme=tokyonight" height="150"/>
