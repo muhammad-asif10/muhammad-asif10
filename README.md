@@ -143,6 +143,7 @@
 </p>
 
 
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -160,7 +161,7 @@
 
 <p align="center">
   <!-- Top Languages -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/muhammad-asif10/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaasif10&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/muhammad-asif10/github-readme-stats)
 </p>
 
 ---
