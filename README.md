@@ -142,7 +142,6 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif10&layout=compact&hide_border=true" /> </p>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyonight&area=true&hide_border=true" alt="GitHub Contribution Graph" width="70%"/>
   </p>
