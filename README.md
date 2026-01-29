@@ -65,12 +65,12 @@
 ## 🧰 Skills & Tools
 
 <p align="left">
-  <!-- Languages -->
+  <h1>Languages</h1>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
 
-  <!-- Data -->
+  <h1> Data </h1>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
