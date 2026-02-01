@@ -28,34 +28,6 @@
 * 💼 Actively seeking **remote internships** (Data Science / AI)
 * ✍️ Blogging at **[DEV](https://dev.to/muhammadasif)**
 
----
-
-## ⭐ Featured Project
-
-### 🔊 Text to Speech App
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="30"/>
-</p>
-🔗 Repository:
- [👉TTS](https://github.com/muhammad-asif10/text_to_speech_app)
-
-## 🚀 Live Demo
-
-[![Live on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://text-to-speech-v1.streamlit.app/)
-
-### 📄 PDF to Word Converter App
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"> <img src="https://img.shields.io/badge/Cloud-Ready-4CAF50?style=for-the-badge&logo=cloud&logoColor=white"> </p> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=800&color=FF4B4B&width=435&lines=PDF+to+Editable+Word+Converter;Streamlit+Cloud+Deployed;Python+Automation+Project" />
-
-🔗 Repository:
-[👉 PDF to Word Converter](https://github.com/muhammad-asif10/pdf_to_docx-converter-app)
-
-## 🖥 Live Demo
-
-[![Live on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf2word-convertor.streamlit.app/)
----
-
 ## 🧰 Skills & Tools
 
 <p align="left">
