@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="30"/>
 </p>
 🔗 Repository:
-👉 [TTS](https://github.com/muhammad-asif10/text_to_speech_app)
+ [👉TTS](https://github.com/muhammad-asif10/text_to_speech_app)
 
 ## 🚀 Live Demo
 
