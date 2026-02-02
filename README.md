@@ -41,6 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
   <h3> Databases </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+          
           
   <h3> Visualizion </h3>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
