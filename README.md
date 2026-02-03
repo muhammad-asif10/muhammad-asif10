@@ -72,9 +72,13 @@
 
 ## 🎯 What I’m Working Toward
 
-* 📈 Real-world **Data Analysis & ML projects**
-* 🧠 Improving Skills in **SQL, Power BI, Tableau**
-* 🤖 Deep Learning fundamentals
+* 📈 Real-world **Analysis & ML projects**
+* 🖥️ Improving Skills in **AI, ML and Robotic**
+* 🧠 Deep Learning fundamentals
+* 👁️‍🗨️ Computer Vision
+* 🗣️ Natural Language Processing
+* 🤖 Large Language Model
+* 🤺 Open Source Contributions 
 
 <!-- Learning Platforms Section -->
 <h3 align="center">🌐 My Favorite Learning Platforms</h3>
@@ -125,7 +129,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="50" height="50"/>
   </a>
 </p>
----
+
 <a href="mailto:MuhammadAsif00@proton.me", align="center>
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
