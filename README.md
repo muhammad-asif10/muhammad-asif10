@@ -20,10 +20,12 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
 </p>
-
+<p>
 <a href="https://www.linkedin.com/in/muhammad-asif10/", align="center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width = "40px" />
 </a>
+</p>
+
 # About me
 * 📊 Focused on **Tech**
 * 🐍 Strong in **Python**, ML & analytics.
