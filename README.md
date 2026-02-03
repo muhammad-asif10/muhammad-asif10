@@ -130,11 +130,7 @@
   </a>
 </p>
 <br>
-<p>
-<a href="mailto:MuhammadAsif00@proton.me", align="center>
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" width="40px"/>
-</a>
-</p>
+
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
