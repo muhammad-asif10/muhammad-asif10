@@ -132,8 +132,6 @@
   </p>
 </div>
 
-![My Github Game](game.gif)
-
 > *“Learning by building — one project at a time.”*
 
 ⭐ **Open to internships, collaboration & learning opportunities**
