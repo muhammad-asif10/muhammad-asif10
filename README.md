@@ -129,7 +129,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="50" height="50"/>
   </a>
 </p>
-
+<p>
 <a href="mailto:MuhammadAsif00@proton.me", align="center>
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
