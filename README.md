@@ -20,8 +20,9 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
 </p>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
+<a href="https://www.linkedin.com/in/muhammad-asif10/", align="center>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width = "40px" />
+</a>
 
 * 📊 Focused on **Tech**
 * 🐍 Strong in **Python**, ML & analytics.
