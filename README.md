@@ -11,6 +11,9 @@
   <a href="https://muhammad-asif10.github.io/muhammad-asif/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
   </a>
+  <a href="https://www.linkedin.com/in/muhammad-asif10/" target="_blank" align="center">
+    <img id = "linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn profile" width ="50px">
+</a>
   
 </p>
 <p align="center">
@@ -20,9 +23,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default"/>
 </p>
-<a href="https://www.linkedin.com/in/muhammad-asif10/" target="_blank">
-    <img id = "linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn profile">
-</a>
+
 
 # About me
 * 📊 Focused on **Tech**
