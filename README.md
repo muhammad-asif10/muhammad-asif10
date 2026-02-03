@@ -23,9 +23,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
 
-* 📊 Focused on **Data Science, Machine Learning & AI**
-* 🐍 Strong in **Python**, learning ML & analytics tools
-* 💼 Actively seeking **remote internships** (Data Science / AI)
+* 📊 Focused on **Tech**
+* 🐍 Strong in **Python**, ML & analytics.
+* 💼 Actively seeking **remote internships** **Open Source Contribution**.
 * ✍️ Blogging at **[DEV](https://dev.to/muhammadasif)**
 
 ## 🧰 Skills & Tools
@@ -35,6 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
   <h3> Data </h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
