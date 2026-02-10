@@ -54,7 +54,7 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
   <img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
-  <h3> Visualizion </h3>
+  <h3> Design </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/>
   <h3> Deployment </h3>
