@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Muhammad Asif</h1>
-<h2 align= "center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </h2>
+<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Muhammad Asif</h1>
 <div id="header">
   <div id="badges">
 <p align="center">
@@ -144,5 +143,3 @@
 </div>
 
 > *“Learning by building — one project at a time.”*
-
-⭐ **Open to internships, collaboration & learning opportunities**
