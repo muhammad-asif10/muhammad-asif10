@@ -5,11 +5,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=051218&center=true&width=435&lines=Programmer" alt="Typing SVG" /></a>
   </a>
-</p><br>
-  <a href="https://www.linkedin.com/in/muhammad-asif10/" target="_blank" align="center">
-    <img id = "linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn profile" width ="70px">
-</a>
-  
+</p><br> 
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
