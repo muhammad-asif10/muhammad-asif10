@@ -7,7 +7,6 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://muhammad-asif10.github.io/muhammad-asif/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"width="160"height="110px"/>
   </a><br>
   <a href="https://www.linkedin.com/in/muhammad-asif10/" target="_blank" align="center">
