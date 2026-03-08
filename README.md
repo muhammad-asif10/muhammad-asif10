@@ -5,10 +5,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=051218&center=true&width=435&lines=Programmer" alt="Typing SVG" /></a>
   </a>
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"width="160"height="110px"/>
-  </a><br>
+</p><br>
   <a href="https://www.linkedin.com/in/muhammad-asif10/" target="_blank" align="center">
     <img id = "linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn profile" width ="70px">
 </a>
