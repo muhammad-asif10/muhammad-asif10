@@ -19,7 +19,6 @@
 # About me
 * 📊 Focused on **Tech**
 * 🐍 Strong in **Python**, ML & analytics.
-* 💼 Actively seeking **remote internships** **Open Source Contribution**.
 * ✍️ Blogging at **[DEV](https://dev.to/muhammadasif)**
 
 ## 🧰 Skills & Tools
