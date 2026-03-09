@@ -68,7 +68,7 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyonight&area=true&hide_border=true" alt="GitHub Contribution Graph" width="70%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyonight&area=true&hide_border=true" alt="GitHub Contribution Graph" width="80%"/>
   </p>
 </div>
 
