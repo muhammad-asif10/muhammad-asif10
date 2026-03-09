@@ -1,8 +1,9 @@
 <h3 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Muhammad Asif</h1>
 <div id="header">
   <div id="badges">
-</p>
+</p><br>
 📍 **Pakistan** | 🤖 **Programmer** | 🚀 **Ex-Visuals Founder**
+    
 I am a Computer Science student and aspiring Data Scientist passionate about transforming data into meaningful insights and intelligent solutions. My work focuses on applying data science, machine learning, and artificial intelligence to solve real-world problems and build practical, scalable systems.
 
 I believe that effective data science goes beyond simply applying algorithms. It requires understanding the entire data lifecycle, from data collection and preprocessing to exploratory analysis, model development, and communicating insights through clear visualizations and data-driven reports.
