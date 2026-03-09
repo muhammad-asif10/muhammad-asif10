@@ -59,12 +59,21 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 - Learning Domain Knowledge
 - Working with real-world data
 
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/m_asifx18)
+
+[![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://dev.to/muhammadasif)
+[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asif10/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammad-asif10)
+
+
 ### Philosophy
 
 > "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development & Data Science.
 
 
-🤝 Let’s Connect
+### 🤝 Let’s Connect
 
 I’m always open to collaborations, discussions, and learning opportunities in the fields of AI, Machine Learning, and Data Science.
 
@@ -73,11 +82,14 @@ I’m always open to collaborations, discussions, and learning opportunities in 
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
 </p>
 
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyonight&area=true&hide_border=true" alt="GitHub Contribution Graph" width="80%"/>
-  </p>
-</div>
+<details>
+<summary>Random Facts</summary>
+
+- Treat AI agents as "slot machines for programmers"
+- Run AI as your personal Assistant
+- AI work while you sleep
+- Read History & psychology (when not coding)
+
+</details>
 
 > *“Learning by building — one project at a time.”*
