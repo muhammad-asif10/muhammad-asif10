@@ -46,11 +46,11 @@ I am particularly interested in contributing to data-driven products, analytics 
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/muhammad-asif10)
 
-🚀 Vision
+ ### 🚀 Vision
 
 To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity to build impactful insights that solve real-world problems.
 
-🌟 Current Focus
+### 🌟 Current Focus
 
 - Advancing understanding of Deep Learning Architectures
 - Practicing Data Science competitions and dataset exploration on Kaggle
