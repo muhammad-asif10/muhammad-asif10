@@ -18,38 +18,31 @@ I am particularly interested in contributing to data-driven products, analytics 
 Core Skills
 
 📊 Data Analysis & Exploratory Data Analysis (EDA)
-
 🤖 Machine Learning (Supervised & Unsupervised Learning)
-
 🐍 Python (Pandas, NumPy, Matplotlib, Streamlit, Sklearn)
-
 🧹 Data Cleaning, Preprocessing & Feature Engineering
-
 📈 Data Visualization & Reporting
-
 🌐 Web Scraping & Data Extraction (APIs, Web, Documents)
-
 🔮 Predictive Modeling & Statistical Analysis
-
 ⚙️ Python Automation & Bash Scripting
-
 🧠 Open-Source LLM Integration
-
 🗄️ Databases: MySQL, PostgreSQL
-
 👁️ Computer Vision & NLP
 
-## 🎯 What I’m Working Toward
+🚀 Vision
+To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity to build impactful insights that solve real-world problems.
 
-* 📈 Real-world **Analysis & ML projects**
-* 🖥️ Improving Skills in **AI, ML and Robotic**
-* 🧠 Deep Learning fundamentals
-* 👁️‍🗨️ Computer Vision
-* 🗣️ Natural Language Processing
-* 🤖 Large Language Model
-* 🤺 Open Source Contributions
+🌟 Current Focus
+Advancing understanding of Deep Learning Architectures
+Practicing Data Science competitions and dataset exploration on Kaggle
+Strengthening mathematical reasoning behind AI algorithms
+Exploring Open Source Projects
+Learning Domain Knowledge
+Working with real-world data
 
-  
+🤝 Let’s Connect
+I’m always open to collaborations, discussions, and learning opportunities in the fields of AI, Machine Learning, and Data Science.
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
 </p>
