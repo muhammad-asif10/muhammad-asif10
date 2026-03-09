@@ -42,19 +42,9 @@ I am particularly interested in contributing to data-driven products, analytics 
 - 📄 **[PDFtodocx](https://github.com/muhammad-asif10/PDF_to_Docx-Converter-app)** - Timesaver that help you to convert an uneditable PDF to editable .docs file.
 - 🔊 **[TTS](https://github.com/muhammad-asif10/text_to_speech_app)** - An program that demonstrate how computer convert text into voice.
 
-Core Skills
+  ## GitHub Activity
 
-- 📊 Data Analysis & Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning (Supervised & Unsupervised Learning)
-- 🐍 Python (Pandas, NumPy, Matplotlib, Streamlit, Sklearn)
-- 🧹 Data Cleaning, Preprocessing & Feature Engineering
-- 📈 Data Visualization & Reporting
-- 🌐 Web Scraping & Data Extraction (APIs, Web, Documents)
-- 🔮 Predictive Modeling & Statistical Analysis
-- ⚙️ Python Automation & Bash Scripting
-- 🧠 Open-Source LLM Integration
-- 🗄️ Databases: MySQL, PostgreSQL
-- 👁️ Computer Vision & NLP
+![GitHub Contribution Graph](https://ghchart.rshah.org/muhammad-asif10)
 
 🚀 Vision
 
@@ -77,6 +67,7 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 🤝 Let’s Connect
 
 I’m always open to collaborations, discussions, and learning opportunities in the fields of AI, Machine Learning, and Data Science.
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
