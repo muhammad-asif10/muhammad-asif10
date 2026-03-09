@@ -26,25 +26,15 @@ I am particularly interested in contributing to data-driven products, analytics 
 Core Skills
 
 - 📊 Data Analysis & Exploratory Data Analysis (EDA)
-
 - 🤖 Machine Learning (Supervised & Unsupervised Learning)
-
 - 🐍 Python (Pandas, NumPy, Matplotlib, Streamlit, Sklearn)
-
 - 🧹 Data Cleaning, Preprocessing & Feature Engineering
-
 - 📈 Data Visualization & Reporting
-
 - 🌐 Web Scraping & Data Extraction (APIs, Web, Documents)
-
 - 🔮 Predictive Modeling & Statistical Analysis
-
 - ⚙️ Python Automation & Bash Scripting
-
 - 🧠 Open-Source LLM Integration
-
 - 🗄️ Databases: MySQL, PostgreSQL
-
 - 👁️ Computer Vision & NLP
 
 🚀 Vision
@@ -53,17 +43,12 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 
 🌟 Current Focus
 
-Advancing understanding of Deep Learning Architectures
-
-Practicing Data Science competitions and dataset exploration on Kaggle
-
-Strengthening mathematical reasoning behind AI algorithms
-
-Exploring Open Source Projects
-
-Learning Domain Knowledge
-
-Working with real-world data
+- Advancing understanding of Deep Learning Architectures
+- Practicing Data Science competitions and dataset exploration on Kaggle
+- Strengthening mathematical reasoning behind AI algorithms
+- Exploring Open Source Projects
+- Learning Domain Knowledge
+- Working with real-world data
 
 🤝 Let’s Connect
 
