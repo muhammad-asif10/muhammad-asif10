@@ -39,7 +39,7 @@ Core Skills
 
 👁️ Computer Vision & NLP
 
-🚀 Vision
+🚀 ### Vision
 
 To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity to build impactful insights that solve real-world problems.
 
