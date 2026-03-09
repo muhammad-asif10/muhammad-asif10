@@ -6,42 +6,46 @@
 I am a Computer Science student and aspiring Data Scientist passionate about transforming data into meaningful insights and intelligent solutions. My work focuses on applying data science, machine learning, and artificial intelligence to solve real-world problems and build practical, scalable systems.
 
 I believe that effective data science goes beyond simply applying algorithms. It requires understanding the entire data lifecycle, from data collection and preprocessing to exploratory analysis, model development, and communicating insights through clear visualizations and data-driven reports.
-
 My primary focus areas include Data Science, Machine Learning, and Applied AI, with growing interest in fields such as Computer Vision, Natural Language Processing (NLP), and Generative AI. I primarily work with Python and modern data science tools to analyze complex datasets, build predictive models, and transform raw information into actionable knowledge.
-
 Alongside analytics and modeling, I also develop intelligent automation systems using Python. My experience includes web scraping, API integration, database management, and working with open-source LLMs to collect, process, and analyze both structured and unstructured data from diverse sources such as web platforms and documents.
 
 Currently, I am focused on strengthening my expertise in machine learning, predictive analytics, and real-world AI systems while building projects that combine data analysis, automation, and intelligent decision-making.
-
 I am particularly interested in contributing to data-driven products, analytics platforms, and AI-powered applications while continuously learning and growing within the global data science community.
 
 <h4>Current Projects</h4>
 
 - ✨ **[Visuals](https://visualsbeta.lovable.app/)** - An AI that actually do data analysis, visualization and cleaning.
+- 🎨 **[Innocent](https://innocent-design.netlify.app/)** - Website to explore and practice design.
+- 🤖 **[ShopAssist](https://github.com/muhammad-asif10/Shop_Assist)** - An AI powered ECommerce Assistant.
+- 🔫 **[Shadow Strike](https://muhammad-asif10.github.io/Gun_game/)** - Fun work for my Brother.
+- 🗺️ **[UMap](https://github.com/muhammad-asif10/UMap)** - Program that tell the shortest path with exact time to reach your destination.
+- 🏢 **[Undo Redo](https://github.com/muhammad-asif10/Undo_Redo)** - University project that demonstrate the working of Ctrl+Z(undo) and Ctrl+Y(redo).
+- 📄 **[PDFtodocx](https://github.com/muhammad-asif10/PDF_to_Docx-Converter-app)** - Timesaver that help you to convert an uneditable PDF to editable .docs file.
+- 🔊 **[TTS](https://github.com/muhammad-asif10/text_to_speech_app)** - An program that demonstrate how computer convert text into voice.
 
 Core Skills
 
-📊 Data Analysis & Exploratory Data Analysis (EDA)
+- 📊 Data Analysis & Exploratory Data Analysis (EDA)
 
-🤖 Machine Learning (Supervised & Unsupervised Learning)
+- 🤖 Machine Learning (Supervised & Unsupervised Learning)
 
-🐍 Python (Pandas, NumPy, Matplotlib, Streamlit, Sklearn)
+- 🐍 Python (Pandas, NumPy, Matplotlib, Streamlit, Sklearn)
 
-🧹 Data Cleaning, Preprocessing & Feature Engineering
+- 🧹 Data Cleaning, Preprocessing & Feature Engineering
 
-📈 Data Visualization & Reporting
+- 📈 Data Visualization & Reporting
 
-🌐 Web Scraping & Data Extraction (APIs, Web, Documents)
+- 🌐 Web Scraping & Data Extraction (APIs, Web, Documents)
 
-🔮 Predictive Modeling & Statistical Analysis
+- 🔮 Predictive Modeling & Statistical Analysis
 
-⚙️ Python Automation & Bash Scripting
+- ⚙️ Python Automation & Bash Scripting
 
-🧠 Open-Source LLM Integration
+- 🧠 Open-Source LLM Integration
 
-🗄️ Databases: MySQL, PostgreSQL
+- 🗄️ Databases: MySQL, PostgreSQL
 
-👁️ Computer Vision & NLP
+- 👁️ Computer Vision & NLP
 
 🚀 Vision
 
