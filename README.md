@@ -49,7 +49,8 @@ Advancing understanding of Deep Learning Architectures
 
 Practicing Data Science competitions and dataset exploration on Kaggle
 
-Strengthening mathematical reasoning behind AI algorithms.
+Strengthening mathematical reasoning behind AI algorithms
+
 Exploring Open Source Projects
 
 Learning Domain Knowledge
@@ -57,6 +58,7 @@ Learning Domain Knowledge
 Working with real-world data
 
 🤝 Let’s Connect
+
 I’m always open to collaborations, discussions, and learning opportunities in the fields of AI, Machine Learning, and Data Science.
 
 <p align="center">
