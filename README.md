@@ -15,6 +15,10 @@ Currently, I am focused on strengthening my expertise in machine learning, predi
 
 I am particularly interested in contributing to data-driven products, analytics platforms, and AI-powered applications while continuously learning and growing within the global data science community.
 
+<h4>Current Projects</h4>
+
+[Visuals][https://github.com/muhammad-asif10/Visuals] - An AI that actually do data analysis, visualization and cleaning.
+
 Core Skills
 
 📊 Data Analysis & Exploratory Data Analysis (EDA)
