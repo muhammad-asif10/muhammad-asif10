@@ -18,15 +18,25 @@ I am particularly interested in contributing to data-driven products, analytics 
 Core Skills
 
 📊 Data Analysis & Exploratory Data Analysis (EDA)
+
 🤖 Machine Learning (Supervised & Unsupervised Learning)
+
 🐍 Python (Pandas, NumPy, Matplotlib, Streamlit, Sklearn)
+
 🧹 Data Cleaning, Preprocessing & Feature Engineering
+
 📈 Data Visualization & Reporting
+
 🌐 Web Scraping & Data Extraction (APIs, Web, Documents)
+
 🔮 Predictive Modeling & Statistical Analysis
+
 ⚙️ Python Automation & Bash Scripting
+
 🧠 Open-Source LLM Integration
+
 🗄️ Databases: MySQL, PostgreSQL
+
 👁️ Computer Vision & NLP
 
 🚀 Vision
