@@ -52,9 +52,62 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 - Learning Domain Knowledge
 - Working with real-world data
 
+### Philosophy
+
+> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development & Data Science.
+
+
 🤝 Let’s Connect
 
 I’m always open to collaborations, discussions, and learning opportunities in the fields of AI, Machine Learning, and Data Science.
+
+### 📊 Data Analysis & EDA
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+### 🐍 Python Ecosystem
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### 🧹 Data Cleaning & Feature Engineering
+![Pandas](https://img.shields.io/badge/Data%20Cleaning-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-ML-blue?style=flat-square)
+
+### 📈 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Interactive%20Dashboards-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### 🌐 Web Scraping & Data Extraction
+![Python](https://img.shields.io/badge/Web%20Scraping-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/API%20Integration-REST-green?style=flat-square)
+
+### 🔮 Predictive Modeling & Statistics
+![Machine Learning](https://img.shields.io/badge/Predictive%20Modeling-ML-orange?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistical%20Analysis-Data-blue?style=flat-square)
+
+### ⚙️ Automation & Scripting
+![Python](https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+### 🧠 LLM Integration
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/Open%20Source%20LLMs-AI-purple?style=flat-square)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 👁️ Computer Vision & NLP
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-AI-red?style=flat-square)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
