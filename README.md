@@ -2,6 +2,7 @@
 <div id="header">
   <div id="badges">
 </p><br>
+    
 📍 **Pakistan** | 🤖 **Programmer** | 🚀 **Ex-Visuals Founder**
     
 I am a Computer Science student and aspiring Data Scientist passionate about transforming data into meaningful insights and intelligent solutions. My work focuses on applying data science, machine learning, and artificial intelligence to solve real-world problems and build practical, scalable systems.
