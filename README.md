@@ -17,7 +17,7 @@ I am particularly interested in contributing to data-driven products, analytics 
 
 <h4>Current Projects</h4>
 
-- ✨** [Visuals](https://github.com/muhammad-asif10/Visuals) ** - An AI that actually do data analysis, visualization and cleaning.
+- ✨**[Visuals](https://github.com/muhammad-asif10/Visuals)** - An AI that actually do data analysis, visualization and cleaning.
 
 Core Skills
 
