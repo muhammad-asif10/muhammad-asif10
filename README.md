@@ -59,10 +59,10 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 - Working with real-world data
 - Writing blogs on **[DEV](https://dev.to/muhammadasif)**
 
-### Blogs
-**[How to Use AI Effectively and Save Time & Money](https://dev.to/muhammadasif/-how-to-use-ai-effectively-and-save-time-money-40h)**
+### ⌨️ Blogs
+- **[How to Use AI Effectively and Save Time & Money](https://dev.to/muhammadasif/-how-to-use-ai-effectively-and-save-time-money-40h)**
 
-### Philosophy
+### 🧠 Philosophy
 
 > "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development & Data Science.
 
