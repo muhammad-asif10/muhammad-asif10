@@ -57,6 +57,10 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 - Exploring Open Source Projects
 - Learning Domain Knowledge
 - Working with real-world data
+- Writing blogs on **[DEV](https://dev.to/muhammadasif)**
+
+### Blogs
+**[How to Use AI Effectively and Save Time & Money](https://dev.to/muhammadasif/-how-to-use-ai-effectively-and-save-time-money-40h)**
 
 ### Philosophy
 
