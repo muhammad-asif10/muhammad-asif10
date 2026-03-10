@@ -23,7 +23,6 @@
 ![Statistics](https://img.shields.io/badge/Statistical%20Analysis-Data-blue?style=flat-square)
     
 I am a Computer Science student and aspiring Data Scientist passionate about transforming data into meaningful insights and intelligent solutions. My work focuses on applying data science, machine learning, and artificial intelligence to solve real-world problems and build practical, scalable systems.
-
 I believe that effective data science goes beyond simply applying algorithms. It requires understanding the entire data lifecycle, from data collection and preprocessing to exploratory analysis, model development, and communicating insights through clear visualizations and data-driven reports.
 My primary focus areas include Data Science, Machine Learning, and Applied AI, with growing interest in fields such as Computer Vision, Natural Language Processing (NLP), and Generative AI. I primarily work with Python and modern data science tools to analyze complex datasets, build predictive models, and transform raw information into actionable knowledge.
 Alongside analytics and modeling, I also develop intelligent automation systems using Python. My experience includes web scraping, API integration, database management, and working with open-source LLMs to collect, process, and analyze both structured and unstructured data from diverse sources such as web platforms and documents.
@@ -74,10 +73,6 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammad_asif01@yahoo.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammad-asif10)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
-</p>
-
 <details>
 <summary>Random Facts</summary>
 
@@ -88,3 +83,7 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 - Learning by building — one project at a time.
 
 </details>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
+</p>
