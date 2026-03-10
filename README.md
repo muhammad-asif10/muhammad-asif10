@@ -3,7 +3,7 @@
   <div id="badges">
 </p><br>
     
-📍 **Pakistan** | 🤖 **Programmer** | 🚀 **Ex-Visuals Founder**
+🤖 **Programmer** 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
