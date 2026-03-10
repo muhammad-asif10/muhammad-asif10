@@ -89,6 +89,6 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 - Run AI as your personal Assistant
 - AI work while you sleep
 - Read History & psychology (when not coding)
- *“Learning by building — one project at a time.”
+- “Learning by building — one project at a time.”
 
 </details>
