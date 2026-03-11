@@ -76,7 +76,7 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 
 I’m always open to collaborations, discussions, and learning opportunities in the fields of AI, Machine Learning, and Data Science.
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-YourUsername-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/masif18)
+[![Kaggle](https://img.shields.io/badge/Kaggle-asif-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/masif18)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asif10/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadasifkha01@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammad-asif10)
