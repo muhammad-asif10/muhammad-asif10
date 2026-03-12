@@ -88,7 +88,7 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 [![Blog](https://img.shields.io/badge/-blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://dev.to/muhammadasif)
 
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/muhammad.asif10)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="muhammad.asif10" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 <details>
 <summary>Random Facts</summary>
