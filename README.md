@@ -40,6 +40,7 @@ I am particularly interested in contributing to data-driven products, analytics 
 
 <h4>Current Projects</h4>
 
+- 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app
 - ✨ **[Visuals](https://visualsbeta.lovable.app/)** - An AI that actually do data analysis, visualization and cleaning.
 - 🎨 **[Innocent](https://innocent-design.netlify.app/)** - Website to explore and practice design.
 - 🤖 **[ShopAssist](https://github.com/muhammad-asif10/Shop_Assist)** - An AI powered ECommerce Assistant.
