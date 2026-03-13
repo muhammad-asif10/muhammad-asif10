@@ -3,7 +3,7 @@
   <div id="badges">
 </p><br>
     
-🖥️ **Programmer** 
+🖥️ **Programmer** | 📍 **Pakistan**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -104,3 +104,5 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammad-asif10&style=flat-square&color=0e75b6"/>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer)
