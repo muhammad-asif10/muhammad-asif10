@@ -57,7 +57,7 @@ I am particularly interested in contributing to data-driven products, analytics 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyo-night&hide_border=true&area=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=minimal&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyo-night&hide_border=true&area=true" alt="Muhammad Asif contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=minimalt&hide_border=true&area=true" alt="Muhammad Asif contribution activity graph" width="100%" />
 </picture>
 
  ### 🚀 Vision
