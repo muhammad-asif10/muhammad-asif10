@@ -51,14 +51,9 @@ I am particularly interested in contributing to data-driven products, analytics 
 - 🔊 **[TTS](https://github.com/muhammad-asif10/text_to_speech_app)** - An program that demonstrate how computer convert text into voice.
 - 👩🏻‍💻 **[JS Playground](https://github.com/muhammad-asif10/js_playground)** - A web-based Javascript console that run in browser.
 
- ### GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/muhammad-asif10)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=minimal&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-asif10&theme=minimalt&hide_border=true&area=true" alt="Muhammad Asif contribution activity graph" width="100%" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg" alt="Muhammed Asif GitHub contribution snake animation" />
+</div>
 
  ### 🚀 Vision
 
