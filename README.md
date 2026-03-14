@@ -40,6 +40,7 @@ I am particularly interested in contributing to data-driven products, analytics 
 
 <h4>Current Projects</h4>
 
+- 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn
 - 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app
 - ✨ **[Visuals](https://visualsbeta.lovable.app/)** - An AI that actually do data analysis, visualization and cleaning.
 - 🎨 **[Innocent](https://innocent-design.netlify.app/)** - Website to explore and practice design.
