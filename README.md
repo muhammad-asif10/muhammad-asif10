@@ -2,6 +2,7 @@
 <div id="header">
   <div id="badges">
 </p><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blueviolet?style=flat-square&logo=firefox&logoColor=white)](https://muhammadasif10.vercel.app/)
     
 🖥️ **Programmer** | 📍 **Pakistan**
 
