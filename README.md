@@ -34,13 +34,14 @@
     
 I am a Computer Science student and aspiring Data Scientist passionate about transforming data into meaningful insights and intelligent solutions. My work focuses on applying data science, machine learning, and artificial intelligence to solve real-world problems and build practical, scalable systems.
 I believe that effective data science goes beyond simply applying algorithms. It requires understanding the entire data lifecycle, from data collection and preprocessing to exploratory analysis, model development, and communicating insights through clear visualizations and data-driven reports.
-My primary focus areas include Data Science, Machine Learning, and Applied AI, with growing interest in fields such as Computer Vision, Natural Language Processing (NLP), and Generative AI. I primarily work with Python and modern data science tools to analyze complex datasets, build predictive models, and transform raw information into actionable knowledge.
+My primary focus areas include Data Science, Machine Learning, and Applied AI, with a growing interest in fields such as Computer Vision, Natural Language Processing (NLP), and Generative AI. I primarily work with Python and modern data science tools to analyze complex datasets, build predictive models, and transform raw information into actionable knowledge.
 Alongside analytics and modeling, I also develop intelligent automation systems using Python. My experience includes web scraping, API integration, database management, and working with open-source LLMs to collect, process, and analyze both structured and unstructured data from diverse sources such as web platforms and documents.
 
 Currently, I am focused on strengthening my expertise in machine learning, predictive analytics, and real-world AI systems while building projects that combine data analysis, automation, and intelligent decision-making.
 I am particularly interested in contributing to data-driven products, analytics platforms, and AI-powered applications while continuously learning and growing within the global data science community.
 
 <h4>Current Projects</h4>
+
 - 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
 - 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn.
 - 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app.
