@@ -101,7 +101,7 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 [![English](https://img.shields.io/badge/English-1E90FF?style=flat-square)](#)
 [![Urdu](https://img.shields.io/badge/Urdu-228B22?style=flat-square)](#)
 [![Punjabi](https://img.shields.io/badge/Punjabi-FF8C00?style=flat-square)](#)
-[![Punjabi](https://img.shields.io/badge/Maiwati-FF8A00?style=flat-square)](#)
+[![Punjabi](https://img.shields.io/badge/Maiwati-Native-1F8A00?style=flat-square)](#)
 
 <details>
 <summary>Random Facts</summary>
