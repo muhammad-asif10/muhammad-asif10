@@ -41,17 +41,17 @@ Currently, I am focused on strengthening my expertise in machine learning, predi
 I am particularly interested in contributing to data-driven products, analytics platforms, and AI-powered applications while continuously learning and growing within the global data science community.
 
 <h4>Current Projects</h4>
-
-- 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn
-- 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app
-- ✨ **[Visuals](https://visualsbeta.lovable.app/)** - An AI that actually do data analysis, visualization and cleaning.
+- 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
+- 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn.
+- 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app.
+- ✨ **[Visuals](https://visualsbeta.lovable.app/)** - An AI that actually does data analysis, visualization, and cleaning.
 - 🎨 **[Innocent](https://innocent-design.netlify.app/)** - Website to explore and practice design.
 - 🤖 **[ShopAssist](https://github.com/muhammad-asif10/Shop_Assist)** - An AI powered ECommerce Assistant.
 - 🔫 **[Shadow Strike](https://muhammad-asif10.github.io/Gun_game/)** - Fun work for my Brother.
-- 🗺️ **[UMap](https://github.com/muhammad-asif10/UMap)** - Program that tell the shortest path with exact time to reach your destination.
+- 🗺️ **[UMap](https://github.com/muhammad-asif10/UMap)** - A program that tells the shortest path with exact time to reach your destination.
 - 🏢 **[Undo Redo](https://github.com/muhammad-asif10/Undo_Redo)** - University project that demonstrate the working of Ctrl+Z(undo) and Ctrl+Y(redo).
-- 📄 **[PDFtodocx](https://github.com/muhammad-asif10/PDF_to_Docx-Converter-app)** - Timesaver that help you to convert an uneditable PDF to editable .docs file.
-- 🔊 **[TTS](https://github.com/muhammad-asif10/text_to_speech_app)** - An program that demonstrate how computer convert text into voice.
+- 📄 **[PDFtodocx](https://github.com/muhammad-asif10/PDF_to_Docx-Converter-app)** - Timesaver that helps you to convert an uneditable PDF to an editable .docs file.
+- 🔊 **[TTS](https://github.com/muhammad-asif10/text_to_speech_app)** - A program that demonstrates how a computer converts text into voice.
 - 👩🏻‍💻 **[JS Playground](https://github.com/muhammad-asif10/js_playground)** - A web-based Javascript console that run in browser.
 
 <div align="center">
@@ -70,7 +70,9 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 - Exploring Open Source Projects
 - Learning Domain Knowledge
 - Working with real-world data
+- Open Source Contributions
 - Writing blogs on **[DEV](https://dev.to/muhammadasif)**
+- Entrepreneurship
 
 ### ⌨️ Blogs
 - **[How to Use AI Effectively and Save Time & Money](https://dev.to/muhammadasif/-how-to-use-ai-effectively-and-save-time-money-40h)**
@@ -96,9 +98,9 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 <details>
 <summary>Random Facts</summary>
 
-- Treat AI agents as "slot machines for programmers"
+- Treat AI agents as "slot machines for programmers."
 - Run AI as your personal Assistant
-- AI work while you sleep
+- AI works while you sleep
 - Read History & psychology (when not coding)
 - Learning by building — one project at a time.
 
