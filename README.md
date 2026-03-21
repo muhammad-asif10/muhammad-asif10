@@ -96,11 +96,12 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/muhammad.asif10)
 
-<h3> Languages I Speaks </h3>
+<h3> Languages I Speak </h3>
 
-[![English](https://img.shields.io/badge/English-Fluent-1E90FF?style=flat-square)](#)
-[![Urdu](https://img.shields.io/badge/Urdu-Native-228B22?style=flat-square)](#)
-[![Punjabi](https://img.shields.io/badge/Punjabi-Native-FF8C00?style=flat-square)](#)
+[![English](https://img.shields.io/badge/English-1E90FF?style=flat-square)](#)
+[![Urdu](https://img.shields.io/badge/Urdu-228B22?style=flat-square)](#)
+[![Punjabi](https://img.shields.io/badge/Punjabi-FF8C00?style=flat-square)](#)
+[![Punjabi](https://img.shields.io/badge/Maiwati-FF8A00?style=flat-square)](#)
 
 <details>
 <summary>Random Facts</summary>
