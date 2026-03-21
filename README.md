@@ -43,6 +43,7 @@ I am particularly interested in contributing to data-driven products, analytics 
 
 <h4>Current Projects</h4>
 
+- 📃 **[Ripolt](https://ripolt.replit.app/)** - An end-to-end resume making platform.
 - 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
 - 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn.
 - 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app.
