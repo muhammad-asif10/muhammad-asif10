@@ -62,13 +62,10 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 ### 🌟 Current Focus
 
 - Advancing understanding of Deep Learning Architectures
-- Practicing Data Science competitions and dataset exploration on Kaggle
 - Strengthening mathematical reasoning behind AI algorithms
 - Exploring Open Source Projects
 - Learning Domain Knowledge
-- Working with real-world data
-- Open Source Contributions
-- Writing blogs on **[DEV](https://dev.to/muhammadasif)**
+- Working with real-world problems
 - Entrepreneurship
 
 ### ⌨️ Blogs
@@ -81,7 +78,7 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 
 ### 🤝 Let’s Connect
 
-I’m always open to collaborations, discussions, and learning opportunities in the fields of AI, Machine Learning, and Data Science.
+I’m always open to collaborations, discussions, and learning opportunities.
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-asif-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/masif18)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asif10/)
