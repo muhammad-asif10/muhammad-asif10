@@ -33,13 +33,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
     
-I am a Computer Science student and aspiring Data Scientist passionate about transforming data into meaningful insights and intelligent solutions. My work focuses on applying data science, machine learning, and artificial intelligence to solve real-world problems and build practical, scalable systems.
-I believe that effective data science goes beyond simply applying algorithms. It requires understanding the entire data lifecycle, from data collection and preprocessing to exploratory analysis, model development, and communicating insights through clear visualizations and data-driven reports.
-My primary focus areas include Data Science, Machine Learning, and Applied AI, with a growing interest in fields such as Computer Vision, Natural Language Processing (NLP), and Generative AI. I primarily work with Python and modern data science tools to analyze complex datasets, build predictive models, and transform raw information into actionable knowledge.
-Alongside analytics and modeling, I also develop intelligent automation systems using Python. My experience includes web scraping, API integration, database management, and working with open-source LLMs to collect, process, and analyze both structured and unstructured data from diverse sources such as web platforms and documents.
-
-Currently, I am focused on strengthening my expertise in machine learning, predictive analytics, and real-world AI systems while building projects that combine data analysis, automation, and intelligent decision-making.
-I am particularly interested in contributing to data-driven products, analytics platforms, and AI-powered applications while continuously learning and growing within the global data science community.
+Turning ideas into code and making computers do the heavy lifting. Every day, I dive into messy data, build predictive models, experiment with AI, and explore creative ways to automate tasks. I’m fascinated by Machine Learning, NLP, Computer Vision, and generative AI, and I love using these tools to solve real problems or just see what crazy thing I can make work next. Coding, for me, is a mix of curiosity, problem-solving, and the thrill of building something from scratch. I’m on a journey to keep learning, keep building, and keep creating projects that matter, while having fun and embracing the chaos that comes with every bug, crash, and breakthrough.
 
 <h4>Current Projects</h4>
 
