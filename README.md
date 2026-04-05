@@ -52,7 +52,11 @@ Turning ideas into code and making computers do the heavy lifting. Every day, I 
 - 👩🏻‍💻 **[JS Playground](https://github.com/muhammad-asif10/js_playground)** - A web-based Javascript console that run in browser.
 
 ### Labs
-
+- 🤖 **[AI](https://github.com/muhammad-asif10/AI-Lab-Uni)**
+- 📚 **[DS](https://github.com/muhammad-asif10/DS-Labs)**
+- ⚡ **[DLD](https://github.com/muhammad-asif10/DLD_Labs)**
+- 💽 **[ADBMS](https://github.com/muhammad-asif10/ADBMS_Labs)**
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg" alt="Muhammed Asif GitHub contribution snake animation" />
 </div>
