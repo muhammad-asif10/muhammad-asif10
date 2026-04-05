@@ -5,7 +5,7 @@
     
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://muhammadasifkha.vercel.app/)
     
-🖥️ **Programmer** | 📍 **Pakistan**
+🖥️ **Programmer**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -51,6 +51,8 @@ Turning ideas into code and making computers do the heavy lifting. Every day, I 
 - 🔊 **[TTS](https://github.com/muhammad-asif10/text_to_speech_app)** - A program that demonstrates how a computer converts text into voice.
 - 👩🏻‍💻 **[JS Playground](https://github.com/muhammad-asif10/js_playground)** - A web-based Javascript console that run in browser.
 
+### Labs
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg" alt="Muhammed Asif GitHub contribution snake animation" />
 </div>
@@ -63,10 +65,12 @@ To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity
 
 - Advancing understanding of Deep Learning Architectures
 - Strengthening mathematical reasoning behind AI algorithms
-- Exploring Open Source Projects
 - Learning Domain Knowledge
 - Working with real-world problems
 - Entrepreneurship
+- Business
+- Communication Skills
+- Networking
 
 ### ⌨️ Blogs
 - **[How to Use AI Effectively and Save Time & Money](https://dev.to/muhammadasif/-how-to-use-ai-effectively-and-save-time-money-40h)**
