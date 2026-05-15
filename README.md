@@ -63,12 +63,11 @@ Turning ideas into code and making computers do the heavy lifting. Every day, I 
 
  ### 🚀 Vision
 
-To become a Top-Tier Data Scientist, leveraging data, algorithms, and creativity to build impactful insights that solve real-world problems.
+To become a Top-Tier AI Engineer, leveraging data, algorithms, and creativity to build AI Agents that solve real-world problems.
 
 ### 🌟 Current Focus
 
-- Advancing understanding of Deep Learning Architectures
-- Strengthening mathematical reasoning behind AI algorithms
+- Frontend & Beckend
 - Learning Domain Knowledge
 - Working with real-world problems
 - Entrepreneurship
