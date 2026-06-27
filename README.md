@@ -7,6 +7,8 @@
     
 🖥️ **Programmer**
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 ## What I Build
 - AI agents and RAG pipelines using LLMs
 - Web scrapers with anti-bot detection
