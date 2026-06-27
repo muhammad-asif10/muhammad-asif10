@@ -7,6 +7,11 @@
     
 🖥️ **Programmer**
 
+## What I Build
+- AI agents and RAG pipelines using LLMs
+- Web scrapers with anti-bot detection
+- NLP systems for text classification and sentiment analysis
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
