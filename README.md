@@ -44,7 +44,7 @@ Turning ideas into code and making computers do the heavy lifting. Every day, I 
 
 <h4>Current Projects</h4>
 
-- 🗞️ **[News Scraper Pipeline](https://github.com/muhammad-asif10/News_Scraper_Pipeline) - An end to end scraping pipeline for dawn.com news and store into mongoDB atlas.
+- 🗞️ **[News Scraper Pipeline](https://github.com/muhammad-asif10/News_Scraper_Pipeline)** - An end to end scraping pipeline for dawn.com news and store into mongoDB atlas.
 - 💽 **[Scrapi](https://github.com/muhammad-asif10/Scrapi)** - An intelligent web scraper built in your CLI.
 - 📃 **[Ripolt](https://ripolt.replit.app/)** - An end-to-end resume making platform.
 - 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
