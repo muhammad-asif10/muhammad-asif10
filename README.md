@@ -46,19 +46,20 @@ Turning ideas into code and making computers do the heavy lifting. Every day, I 
 
 - 🗞️ **[News Scraper Pipeline](https://github.com/muhammad-asif10/News_Scraper_Pipeline)** - An end to end scraping pipeline for dawn.com news and store into mongoDB atlas.
 - 💽 **[Scrapi](https://github.com/muhammad-asif10/Scrapi)** - An intelligent web scraper built in your CLI.
-- 📃 **[Ripolt](https://ripolt.replit.app/)** - An end-to-end resume making platform.
-- 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
 - 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn.
+- 🤖 **[ShopAssist](https://github.com/muhammad-asif10/Shop_Assist)** - An AI powered ECommerce Assistant.
+- 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
+
 - 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app.
 - ✨ **[Visuals](https://visualsbeta.lovable.app/)** - An AI that actually does data analysis, visualization, and cleaning.
 - 🎨 **[Innocent](https://innocent-design.netlify.app/)** - Website to explore and practice design.
-- 🤖 **[ShopAssist](https://github.com/muhammad-asif10/Shop_Assist)** - An AI powered ECommerce Assistant.
 - 🔫 **[Shadow Strike](https://muhammad-asif10.github.io/Gun_game/)** - Fun work for my Brother.
 - 🗺️ **[UMap](https://github.com/muhammad-asif10/UMap)** - A program that tells the shortest path with exact time to reach your destination.
 - 🏢 **[Undo Redo](https://github.com/muhammad-asif10/Undo_Redo)** - University project that demonstrate the working of Ctrl+Z(undo) and Ctrl+Y(redo).
 - 📄 **[PDFtodocx](https://github.com/muhammad-asif10/PDF_to_Docx-Converter-app)** - Timesaver that helps you to convert an uneditable PDF to an editable .docs file.
 - 🔊 **[TTS](https://github.com/muhammad-asif10/text_to_speech_app)** - A program that demonstrates how a computer converts text into voice.
 - 👩🏻‍💻 **[JS Playground](https://github.com/muhammad-asif10/js_playground)** - A web-based Javascript console that run in browser.
+- 📃 **[Ripolt](https://ripolt.replit.app/)** - An end-to-end resume making platform.
 
 ### Labs
 - 🤖 **[AI](https://github.com/muhammad-asif10/AI-Lab-Uni)**
