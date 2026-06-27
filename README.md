@@ -33,7 +33,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square)
-![Requests](https://img.shields.io/badge/Requests%20Client-3776AB?style=flat-square&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/API%20Integration-REST-green?style=flat-square)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
