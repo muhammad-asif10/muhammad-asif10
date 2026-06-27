@@ -44,12 +44,12 @@ Turning ideas into code and making computers do the heavy lifting. Every day, I 
 
 <h4>Current Projects</h4>
 
+
 - 🗞️ **[News Scraper Pipeline](https://github.com/muhammad-asif10/News_Scraper_Pipeline)** - An end to end scraping pipeline for dawn.com news and store into mongoDB atlas.
 - 💽 **[Scrapi](https://github.com/muhammad-asif10/Scrapi)** - An intelligent web scraper built in your CLI.
 - 🛍️ **[Customer Churn System](https://github.com/muhammad-asif10/Customer_Churn_Prediction_Model)** - An implementation of Customer Churn ML model in Sklearn.
 - 🤖 **[ShopAssist](https://github.com/muhammad-asif10/Shop_Assist)** - An AI powered ECommerce Assistant.
 - 🌐 **[Glotext](https://github.com/PublicKernel/Glotext)** - A Python module that translates your document from one language to another in the terminal.
-
 - 🔻 **[Alter](https://github.com/muhammad-asif10/Alter)** - A lightweight  & fast youtube video downloader desktop app.
 - ✨ **[Visuals](https://visualsbeta.lovable.app/)** - An AI that actually does data analysis, visualization, and cleaning.
 - 🎨 **[Innocent](https://innocent-design.netlify.app/)** - Website to explore and practice design.
