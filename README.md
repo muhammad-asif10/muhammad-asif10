@@ -7,7 +7,7 @@
     
 🖥️ **Programmer**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,postgresql,mysql,git,bash,postman,docker,aws,mongodb,selenium,opencv,sklearn,js,html,css,cpp)](https://skillicons.dev)
 
 ## What I Build
 - AI agents and RAG pipelines using LLMs
