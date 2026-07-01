@@ -101,7 +101,8 @@ I’m always open to collaborations, discussions, and learning opportunities.
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asif10/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadasifkha01@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammad-asif10)
-[![Twitter](https://img.shields.io/badge/-@Asif-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/m_asifx18)
+[![Twitter](https://img.shields.io/badge/-@Asif-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@muhammad_AsifX
+)
 [![Blog](https://img.shields.io/badge/-blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://dev.to/muhammadasif)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/muhammad.asif10)
