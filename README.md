@@ -52,13 +52,10 @@
 - ⚡ **[DLD](https://github.com/muhammad-asif10/DLD_Labs)**
 - 💽 **[ADBMS](https://github.com/muhammad-asif10/ADBMS_Labs)**
   
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alirezarezvani/alirezarezvani/output/github-contribution-grid-snake-dark.svg" alt="Muhammed Asif GitHub contribution snake animation" />
-</div>
 
  ### 🚀 Vision
 
-To become a Top-Tier AI Engineer, leveraging data, algorithms, and creativity to build AI Agents that solve real-world problems.
+To become a Top-Tier Engineer, leveraging data, algorithms, and creativity to build something that solve real-world problems.
 
 ### 🌟 Current Focus
 
@@ -72,7 +69,7 @@ To become a Top-Tier AI Engineer, leveraging data, algorithms, and creativity to
 
 ### 🧠 Philosophy
 
-> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development & Data Science.
+> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development & business.
 
 
 ### 🤝 Let’s Connect
