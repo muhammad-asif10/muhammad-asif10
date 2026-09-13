@@ -13,32 +13,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-3776AB?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/N%20L%20P-red?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square)
-![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white)
 ![API](https://img.shields.io/badge/API%20Integration-REST-green?style=flat-square)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-
-    
-Turning ideas into code and making computers do the heavy lifting. Every day, I dive into messy data, build predictive models, experiment with AI, and explore creative ways to automate tasks. I’m fascinated by Machine Learning, NLP, Computer Vision, and generative AI, and I love using these tools to solve real problems or just see what crazy thing I can make work next. Coding, for me, is a mix of curiosity, problem-solving, and the thrill of building something from scratch. I’m on a journey to keep learning, keep building, and keep creating projects that matter, while having fun and embracing the chaos that comes with every bug, crash, and breakthrough.
 
 <h4>Current Projects</h4>
 
@@ -75,13 +62,10 @@ To become a Top-Tier AI Engineer, leveraging data, algorithms, and creativity to
 
 ### 🌟 Current Focus
 
-- Frontend & Beckend
-- Learning Domain Knowledge
 - Working with real-world problems
 - Entrepreneurship
-- Business
 - Communication Skills
-- Networking
+
 
 ### ⌨️ Blogs
 - **[How to Use AI Effectively and Save Time & Money](https://dev.to/muhammadasif/-how-to-use-ai-effectively-and-save-time-money-40h)**
@@ -98,7 +82,6 @@ I’m always open to collaborations, discussions, and learning opportunities.
 [![Kaggle](https://img.shields.io/badge/Kaggle-asif-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/masif18)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asif10/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadasifkha01@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammad-asif10)
 [![Twitter](https://img.shields.io/badge/-@Asif-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@muhammad_AsifX
 )
 [![Blog](https://img.shields.io/badge/-blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://dev.to/muhammadasif)
