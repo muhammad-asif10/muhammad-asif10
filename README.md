@@ -3,8 +3,6 @@
   <div id="badges">
 </p><br>
     
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://asifg.vercel.app/)
-
 ## What I Build
 - something that solve real-world problems.
 
