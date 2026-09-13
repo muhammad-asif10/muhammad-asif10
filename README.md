@@ -4,11 +4,9 @@
 </p><br>
     
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://asifg.vercel.app/)
-    
-🖥️ **Programmer**
 
 ## What I Build
-- AI agents and RAG pipelines using LLMs
+- something that solve real-world problems.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
